@@ -39,19 +39,19 @@ Group Policy Management Editor will pop up. This time, I'll apply the policy rat
 <br/>
 
 <p align="center">
-The location should be \\(server computer name)\(shared folder name). Click 'OK'.
+The location should be \\(server computer name)\(shared folder name). Click 'OK'.<br/>
 <img width="395" height="451" alt="image" src="https://github.com/user-attachments/assets/ca9a3c30-a97b-47fb-9d26-b1ccff15bf0e" />
 <br/>
 <br/>
   
 <p align="center">
-I can now also set the target group, user or computers for this Group Policy on Group Policy Management.
+I can now also set the target group, user or computers for this Group Policy on Group Policy Management.<br/>
 <img width="964" height="514" alt="image" src="https://github.com/user-attachments/assets/98c47414-e00f-4b75-9621-a4aae59878e6" />
 <br/>
 <br/>
 
 <p align="center">
-The shared folder is now mapped on the client's File Explorer.
+The shared folder is now mapped on the client's File Explorer.<br/>
 <img width="1017" height="841" alt="image" src="https://github.com/user-attachments/assets/82ba01e1-45c2-48f8-a548-496e071a17d7" />
 <br/>
 <br/>
