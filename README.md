@@ -11,6 +11,7 @@ A walkthrough of mapping a shared folder within a network by enforcing a group p
 - <b><a href="https://github.com/schul1012/Active-Directory-Domain-Setup/blob/main/README.md">Active Directory Domain Setup</a></b><br/>
 - <b><a href="https://github.com/schul1012/NAT/tree/main">RAS and NAT configuration</b></a><br/>
 - <b><a href="https://github.com/schul1012/DHCP/tree/main">DHCP</b></a><br/>
+- <b><a href="https://github.com/schul1012/File-Sharing/tree/main">File Sharing</a></b><br/>
 
 
 <h2>Environments Used</h2>
