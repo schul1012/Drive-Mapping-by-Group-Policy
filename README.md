@@ -17,6 +17,7 @@ A walkthrough of mapping a shared folder within a network by enforcing a group p
 <h2>Environments Used</h2>
 
 - <b>Windows 2019</b>
+- <b>Windows 10</b>
 
 <h2>Walkthrough</h2>
 
